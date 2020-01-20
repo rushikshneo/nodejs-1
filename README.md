@@ -1,2 +1,2 @@
-# Bit-Conin Converter
+# Bit-Coin Converter
 nodejs project
